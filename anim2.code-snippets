@@ -1,0 +1,9 @@
+{
+	"Animacion 2": {
+  "prefix": "anim2",
+  "body": [
+    "(data-aos=\"zoom-in\")"
+  ],
+  "description": "Animacion 2"
+}
+}

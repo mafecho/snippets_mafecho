@@ -1,0 +1,26 @@
+{
+	"li_icono": {
+  "prefix": "li_icono",
+  "body": [
+    ".row.mt-4.bg-base.p-3.bg-r8",
+    "  .col-12",
+    "    ul.lista-ul--color",
+    "      li.d-flex.align-items-start",
+    "        span.icono-img",
+    "        p.mb-0 La práctica diaria es el único sistema de perfeccionamiento de la lectura.",
+    "",
+    "      li.d-flex.align-items-start",
+    "        span.icono-img",
+    "        p.mb-0 Antes de iniciar la lectura, se debe hojear el texto. La exploración preliminar del texto es el medio ideal para mejorar la comprensión.",
+    "",
+    "      li.d-flex.align-items-start",
+    "        span.icono-img",
+    "        p.mb-0 Es necesario contar con condiciones óptimas para consultar los textos: buena iluminación, postura adecuada, la distancia adecuada del papel y una actitud positiva.",
+    "",
+    "      li.d-flex.align-items-start",
+    "        span.icono-img",
+    "        p.mb-0 Cuanto má"
+  ],
+  "description": "li_icono"
+}
+}

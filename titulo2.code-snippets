@@ -1,0 +1,11 @@
+{
+	"Titulo Segundo Nivel": {
+  "prefix": "titulo2",
+  "body": [
+    "separador",
+    "#t_1_1.titulo-segundo.color-acento-contenido",
+    "  h2 1.1  Título de segundo nivel, 24pt"
+  ],
+  "description": "Titulo Segundo Nivel"
+}
+}

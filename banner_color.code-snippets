@@ -1,0 +1,36 @@
+{
+	"banner_color": {
+  "prefix": "banner_color",
+  "body": [
+    ".row.justify-content-center",
+    "  .col-lg-10",
+    "    .row.bg-base.bg-r4.p-3.align-items-center",
+    "      .col-lg-2.d-lg-block.d-none(data-aos=\"fade-down\")",
+    "        figure(data-aos=\"fade-left\")",
+    "          img(src=\"@/assets/componentes/ej-05.svg\", alt=\"\", style=\"width: 80px\").m-auto",
+    "      .col-lg-10",
+    "        p.mb-0 Se escriben con y las palabras que terminan con el sonido equivalente a i cuando este va precedido de una vocal con la que forma diptongo, o de dos vocales con las que forma triptongo.",
+    "        p Ejemplos: ay, estoy, verdegay, Bombay, buey, ley, rey, convoy, soy, Godoy, muy, Uruguay, Garay. Existen algunas excepciones, como saharaui o bonsái.",
+    "    .row.bg-base3.p-3.align-items-center",
+    "      .col-lg-2.d-lg-block.d-none(data-aos=\"fade-down\")",
+    "        figure(data-aos=\"fade-left\")",
+    "          img(src=\"@/assets/componentes/ej-05.svg\", alt=\"\", style=\"width: 80px\").m-auto",
+    "      .col-lg-10",
+    "        p.mb-0 La conjunción copulativa y se escribe con esta letra.",
+    "        p Ejemplos: Juan y María; cielo y tierra; este y aquel. Esta conjunción adopta la forma e ante palabras que comienzan por el fonema vocálico correspondiente a i (ciencia e historia; catedrales e iglesias), salvo cuando dicha vocal forma diptongo (cobre y hierro; estratosfera y ionosfera).",
+    "    .row.bg-base.bg-r4.p-3.align-items-center",
+    "      .col-lg-2.d-lg-block.d-none(data-aos=\"fade-down\")",
+    "        figure(data-aos=\"fade-left\")",
+    "          img(src=\"@/assets/componentes/ej-05.svg\", alt=\"\", style=\"width: 80px\").m-auto",
+    "      .col-lg-10",
+    "        p Las palabras que presentan el sonido palatal sonoro ante vocal se escriben con y, especialmente en los siguientes casos. En primer lugar, cuando este sonido aparece después de los prefijos ad-, dis- y sub-, como en adyacente, disyuntivo y subyugar. En segundo lugar, en algunas formas de los verbos caer, raer, creer, leer, poseer, proveer y sobreser, así como en los verbos terminados en -oir y -uir, por ejemplo: cayeran, leyendo, oyó, concluyó y atribuyera.",
+    "    .row.bg-base3.p-3.align-items-center",
+    "      .col-lg-2.d-lg-block.d-none(data-aos=\"fade-down\")",
+    "        figure(data-aos=\"fade-left\")",
+    "          img(src=\"@/assets/componentes/ej-05.svg\", alt=\"\", style=\"width: 80px\").m-auto",
+    "      .col-lg-10",
+    "        p Asimismo, se escriben    "
+  ],
+  "description": "banner_color"
+}
+}

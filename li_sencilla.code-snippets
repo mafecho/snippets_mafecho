@@ -1,0 +1,20 @@
+{
+	"li_sencilla": {
+  "prefix": "li_sencilla",
+  "body": [
+    ".row.align-items-center.mt-4",
+    "  .col-lg-12.mb-lg-0",
+    "    ul.lista-ul--color.bg-base.bg-r8.p-4",
+    "      li",
+    "        i.lista-ul__vineta",
+    "        p.mb-0 Tener un fin claro y específico.",
+    "      li",
+    "        i.lista-ul__vineta",
+    "        p.mb-0 Tener experiencia cognitiva con la ejecución de las operaciones del pensamiento.",
+    "      li",
+    "        i.lista-ul__vineta",
+    "        p.mb-0 Saber organizar y estructurar la información (orden secuencial de ideas). "
+  ],
+  "description": "li_sencilla"
+}
+}

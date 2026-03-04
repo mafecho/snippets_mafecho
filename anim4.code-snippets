@@ -1,0 +1,9 @@
+{
+	"Animacion 4": {
+  "prefix": "anim4",
+  "body": [
+    "(data-aos=\"fade-up\")"
+  ],
+  "description": "Animacion 4"
+}
+}

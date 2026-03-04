@@ -1,0 +1,25 @@
+{
+	"li_letras": {
+  "prefix": "li_letras",
+  "body": [
+    ".row.align-items-center.bg-base.bg-r8.p-4",
+    "  .col-12",
+    "    ol.lista-ol--cuadro",
+    "      li ",
+    "        .lista-ol--cuadro__vineta",
+    "          span.text-black A",
+    "        p.mb-0 Si el texto es complejo:",
+    "",
+    "      li ",
+    "        .lista-ol--cuadro__vineta",
+    "          span.text-black B",
+    "        p.mb-0 Si el texto es complejo:",
+    "",
+    "      li ",
+    "        .lista-ol--cuadro__vineta",
+    "          span.text-black C",
+    "        p.mb-0 Si el texto es complejo:"
+  ],
+  "description": "li_letras"
+}
+}

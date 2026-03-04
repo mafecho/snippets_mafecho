@@ -1,0 +1,19 @@
+{
+	"tab_pasos_titulo": {
+  "prefix": "tab_pasos_titulo",
+  "body": [
+    "TabsC.color-acento-botones",
+    "  .py-3.py-md-4.bg-base(titulo=\"Se escribe con b\")",
+    "    .row.p-4",
+    "      .col-md-12.mb-4.mb-md-0",
+    "        p La letra b siempre representa el fonema labial sonoro de barco, beso, blusa o abuelo. Notas orientadoras sobre el uso de la letra b se escriben con b:",
+    "",
+    "",
+    "  .py-3.py-md-4.bg-14(titulo=\"Se escribe con v\")",
+    "    .row.p-4",
+    "      .col-md-12.mb-4.mb-md-0",
+    "        p La letra v siempre"
+  ],
+  "description": "tab_pasos_titulo"
+}
+}

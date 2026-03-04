@@ -1,0 +1,22 @@
+{
+	"figura_+_imgMovil": {
+  "prefix": "figura_+_imgMovil",
+  "body": [
+    ".row.justify-content-center",
+    "  .col-10",
+    "    .titulo-sexto.color-acento-contenido.mb-3.mt-4",
+    "      h5 Figura 3.",
+    "      span Clasificación de las vocales según su apertura",
+    "    figure",
+    "      img.d-none.d-md-block.m-auto(",
+    "        src='@/assets/curso/temas/2.svg',",
+    "        alt='Figura 3. Clasificación de las vocales según su apertura. Esquema que muestra la clasificación de las vocales: “i” y “u” como vocales cerradas; “e” y “o” como vocales semicerradas o semiabiertas; y “a” como vocal abierta, indicando su grado de apertura en la articulación.'",
+    "      )",
+    "      img.d-block.d-md-none.m-auto(",
+    "        src='@/assets/curso/temas/2m.svg',",
+    "        alt='Figura 3. Clasificación de las vocales según su apertura. Esquema que muestra la clasificación de las vocales: “i” y “u” como vocales cerradas; “e” y “o” como vocales semicerradas o semiabiertas; y “a” como vocal abierta, indicando su grado de apertura en la articulación.'",
+    "      )"
+  ],
+  "description": "figura_+_imgMovil"
+}
+}

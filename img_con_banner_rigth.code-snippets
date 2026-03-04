@@ -1,0 +1,18 @@
+{
+	"img_con_banner_rigth": {
+  "prefix": "img_con_banner_rigth",
+  "body": [
+    ".row.align-items-center.justify-content-center",
+    "  .col-lg-12",
+    "    .row.justify-content-center.mt-4",
+    "      .col-lg-12(data-aos=\"fade-down\")",
+    "        .row.d-flex.align-items-center.bg-base.bg-r8(data-aos=\"fade-right\")",
+    "          .col-lg.p-4",
+    "            p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. In fermentum facilisis massa, a consequat purus viverra a. Donec vel mauris quam. Aliquam convallis sollicitudin purus, sed mattis est convallis id. Donec sed ",
+    "          .col-lg-auto.pe-lg-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block",
+    "            figure.m-0.p-0.w-100.h-100.d-flex",
+    "              img(src='@/assets/curso/temas/1.png', alt='', class=\"w-100 h-100 object-fit-cover\")"
+  ],
+  "description": "img_con_banner_rigth"
+}
+}

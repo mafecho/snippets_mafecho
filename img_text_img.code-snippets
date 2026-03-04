@@ -1,0 +1,19 @@
+{
+	"img_text_img": {
+  "prefix": "img_text_img",
+  "body": [
+    ".row.align-items-center",
+    "  .col-lg-8.bg-base.bg-r8.p-3",
+    "",
+    "    figure",
+    "      img(src=\"@/assets/curso/temas/doctor.svg\", alt=\"\", style=\"width: 80px\")",
+    "",
+    "    p.mt-3 Las violencias sexuales constituyen un problema social y de salud pública debido a su alta prevalencia, a la diversidad de formas en que se manifiestan y a las graves consecuencias que generan en la salud y el bienestar de las personas, así como en sus familias y comunidades. Su impacto trasciende el ámbito individual y se extiende al tejido social, afectando la cohesión comunitaria y el desarrollo social.",
+    "",
+    "  .col-lg-4.d-none.d-lg-block",
+    "    figure",
+    "      img(src='@/assets/curso/temas/1.png', alt='', style=\"width: 390px\").m-auto"
+  ],
+  "description": "img_text_img"
+}
+}

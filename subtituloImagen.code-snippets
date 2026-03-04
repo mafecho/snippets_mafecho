@@ -1,0 +1,16 @@
+{
+	"Subtitulo con Icono": {
+  "prefix": "subtituloImagen",
+  "body": [
+    ".row.mb-2.ms-0.mt-4",
+    "  .col-auto.bg-subtitulo(data-aos=\"fade-left\")",
+    "    .row.align-items-center",
+    "      .col-auto.px-0",
+    "        figure",
+    "          img(src='@/assets/componentes/ej-02.svg', alt='', style='width: 60px')",
+    "      .col",
+    "        h3.mb-0 Subtitulo con Imágen"
+  ],
+  "description": "Subtitulo con Icono"
+}
+}

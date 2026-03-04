@@ -1,0 +1,18 @@
+{
+	"img_con_banner": {
+  "prefix": "img_con_banner",
+  "body": [
+    ".row.align-items-center.justify-content-center",
+    "  .col-lg-12",
+    "    .row.justify-content-center.mt-4",
+    "      .col-lg-12(data-aos=\"fade-down\")",
+    "        .row.d-flex.align-items-center.bg-base(data-aos=\"fade-right\")",
+    "          .col-lg-auto.pe-lg-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block",
+    "            figure.m-0.p-0.w-100.h-100.d-flex",
+    "              img(src='@/assets/curso/temas/1.png', alt='', class=\"w-100 h-100 object-fit-cover\", style=\"margin-left:-10px\")",
+    "          .col-lg",
+    "            p En el proceso"
+  ],
+  "description": "img_con_banner"
+}
+}

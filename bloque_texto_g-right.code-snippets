@@ -1,0 +1,14 @@
+{
+	"bloque_texto_g-right": {
+  "prefix": "bloque_texto_g-right",
+  "body": [
+    ".bloque-texto-g.bloque-texto-g--inverso.bg-base.p-3.p-sm-4.p-md-5",
+    "  .bloque-texto-g__img(",
+    "    :style=\"{'background-image': `url(${require('@/assets/curso/temas/img.jpg')})`}\"",
+    "  )",
+    "  .bloque-texto-g__texto.p-4",
+    "    p.mb-0 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor." 
+  ],
+  "description": "bloque_texto_g-right"
+}
+}

@@ -1,0 +1,36 @@
+{
+	"slider_tipo_A": {
+  "prefix": "slider_tipo_A",
+  "body": [
+    "SlyderA.p-4.bg-base.bg-r8(tipo=\"b\")",
+    "  .row.justify-content-center.align-items-center",
+    "    .col-lg-6.mb-4.mb-lg-0",
+    "      h4 Nivel literal",
+    "      p Consiste en identificar y comprender todo aquello que el autor comunica de manera explícita en el texto. Esto implica:",
+    "    ",
+    "    .col-lg-6",
+    "      figure(data-aos=\"fade-down\")",
+    "        img(src='@/assets/curso/temas/LT_01.png', style='width: 572px')",
+    "",
+    "  .row.justify-content-center.align-items-center",
+    "    .col-lg-6.mb-4.mb-lg-0",
+    "      h4 Nivel inferencial",
+    "      p Permite interpretar la intención comunicativa del autor más allá de lo explícito. En este nivel:",
+    "    ",
+    "    .col-lg-6",
+    "      figure(data-aos=\"fade-down\")",
+    "        img(src='@/assets/curso/temas/LT_01.png', style='width: 572px')",
+    "",
+    "  .row.justify-content-center.align-items-center",
+    "    .col-lg-6.mb-4.mb-lg-0",
+    "      h4 Nivel crítico-valorativo",
+    "      p Implica evaluar, valorar y juzgar tanto el contenido explícito como las inferencias del texto. Este nivel requiere:",
+    "    ",
+    "    .col-lg-6",
+    "      figure(data-aos=\"fade-down\")",
+    "        img(src='@/assets/curso/temas/LT_01.png', style='width: 572px')",
+    "        "
+  ],
+  "description": "slider_tipo_A"
+}
+}

@@ -1,0 +1,11 @@
+{
+	"Titulo-figura": {
+  "prefix": "Titulo-figura",
+  "body": [
+    ".titulo-sexto.color-acento-contenido.mb-3.mt-4",
+    "  h5 negrilla.",
+    "  span complemento"
+  ],
+  "description": "Titulo-figura"
+}
+}

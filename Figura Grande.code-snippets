@@ -1,0 +1,10 @@
+{
+	"Figura Grande": {
+  "prefix": "figuraGrande",
+  "body": [
+    "figure",
+    "  img(src='@/assets/curso/intro/img4.png', alt='', style=\"width: 480px\").m-auto"
+  ],
+  "description": "Figura Grande"
+}
+}

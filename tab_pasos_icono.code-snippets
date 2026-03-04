@@ -1,0 +1,35 @@
+{
+	"tab_pasos_icono": {
+  "prefix": "tab_pasos_icono",
+  "body": [
+    "TabsB.color-acento-botones.bg-2",
+    "  .py-4.py-md-5(titulo=\"Unidad\" :icono=\"require('@/assets/componentes/ej-05.svg')\")",
+    "    .row.p-4",
+    "      .col-md-5.mb-4.mb-md-0",
+    "        figure(data-aos=\"zoom-in-up\")",
+    "          img(src='@/assets/curso/temas/LT_01.png', alt='Texto que describa la imagen')",
+    "",
+    "      .col-md-7",
+    "        p Un párrafo debe desarrollar una sola idea central. Fácilmente se rompe la unidad cuando se introducen varias proposiciones principales o cuando se adicionan proposiciones que, en realidad, son ajenas al tema que se pretende desarrollar. Esta es una de las características que permite determinar si un párrafo está bien escrito o no. Si todas las oraciones subtemáticas se relacionan con la oración temática, entonces se afirma que el párrafo posee unidad.",
+    "",
+    "  .py-4.py-md-5(titulo=\"Cohesión y coherencia\" :icono=\"require('@/assets/componentes/ej-05.svg')\")",
+    "    .row.p-4",
+    "      .col-md-5.mb-4.mb-md-0",
+    "        figure(data-aos=\"zoom-in-up\")",
+    "          img(src='@/assets/curso/temas/LT_01.png', alt='Texto que describa la imagen')",
+    "",
+    "      .col-md-7",
+    "        p Un párrafo no es un simple conjunto de oraciones aisladas o inconexas, sino una unidad intermedia de sentido, conformada por oraciones interrelacionadas sintáctica y semánticamente mediante los distintos mecanismos de cohesión (la referencia, la sustitución, la elipsis, los conectores, la repetición y los signos de puntuación) y las diversas formas de coherencia (lineal, global o pragmática). La organización de la estructura interna del párrafo determina su coherencia. Cuando los párrafos son cohesivos y coherentes, establecen apropiados vínculos sintácticos y lógicos semánticos con los otros párrafos y con la totalidad del texto.",
+    "",
+    "  .py-4.py-md-5(titulo=\"Extensión\" :icono=\"require('@/assets/componentes/ej-05.svg')\")",
+    "    .row.p-4",
+    "      .col-md-5.mb-4.mb-md-0",
+    "        figure(data-aos=\"zoom-in-up\")",
+    "          img(src='@/assets/curso/temas/LT_01.png', alt='Texto que describa la imagen')",
+    "",
+    "      .col-md-7",
+    "        p No existen parámetros "
+  ],
+  "description": "tab_pasos_icono"
+}
+}

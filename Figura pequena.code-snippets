@@ -1,0 +1,10 @@
+{
+	"Figura Small": {
+  "prefix": "figuraSmall",
+  "body": [
+    "figure",
+    "  img(src=\"@/assets/curso/intro/img3.png\", alt=\"\", style=\"width: 90px\").m-auto"
+  ],
+  "description": "Figura pequeña"
+}
+}

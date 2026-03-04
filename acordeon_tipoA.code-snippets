@@ -1,0 +1,30 @@
+{
+	"acordeon_tipoA": {
+  "prefix": "acordeon_tipoA",
+  "body": [
+    ".row.justify-content-center",
+    "  .col-lg-10",
+    "    AcordionA.mb-5(tipo=\"a\" clase-tarjeta=\"tarjeta bg-base\")",
+    "      .tarjeta.clr--pink02.p-4(titulo=\"Disposición\")",
+    "        .row.align-items-center",
+    "          p texto",
+    "",
+    "      div(titulo=\"Dimensión\")",
+    "        .row.align-items-center",
+    "          p texto",
+    "",
+    "      div(titulo=\"Dimensión\")",
+    "        .row.align-items-center",
+    "          p texto",
+    "",
+    "      div(titulo=\"Dimensión\")",
+    "        .row.align-items-center",
+    "          p texto",
+    "",
+    "      div(titulo=\"Dimensión\")",
+    "        .row.align-items-center",
+    "          p texto"
+  ],
+  "description": "acordeon_tipoA"
+}
+}

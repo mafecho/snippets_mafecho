@@ -1,0 +1,21 @@
+{
+	"podcast": {
+  "prefix": "podcast",
+  "body": [
+    ".row.justify-content-center.mt-4",
+    "  .col-lg-10",
+    "    .row.bg-base",
+    "      figure(data-aos=\"zoom-in\")",
+    "        img(src='@/assets/componentes/ej-05.svg', style=\"width: 80px\").m-auto          ",
+    "      .row.justify-content-center.g-0.p-4.bg-2",
+    "        .col-lg-10",
+    "          .tarjeta.bg-base3.rounded-0.h-100",
+    "            .tarjeta.bg-white.p-4",
+    "              TarjetaAudio.color-acento-botones.bg-white.mb-3(",
+    "              texto=\"Pódcast\"",
+    "              :audio=\"require('@/assets/componentes/audios/audio-ej.mp3')\"",
+    "            )"
+  ],
+  "description": "podcast"
+}
+}

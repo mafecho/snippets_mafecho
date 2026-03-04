@@ -1,0 +1,12 @@
+{
+	"Background Subtitulo Imagen": {
+  "prefix": "&-subtitulo2",
+  "body": [
+    "&-subtitulo",
+    "  background-image: url(../assets/componentes/bannericon1.svg)",
+    "  background-repeat: repeat-x",
+    "  background-position: center"
+  ],
+  "description": "Background Subtitulo Imagen"
+}
+}

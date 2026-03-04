@@ -1,0 +1,34 @@
+{
+  "Titulo2 con icono": {
+    "prefix": "titulo2-icono-style",
+    "body": [
+			".titulo-tres.mt-5: h3 Características de un párrafo",
+      "  ⚠️ IMPORTANTE:",
+      "  Si es la primera vez que se usa este estilo, valida que exista en el archivo _custom.sass.",
+      "  Si no existe, se debe agregar el siguiente código en styles/_custom.sass",
+			"  Tambien debes validar que exista la imagen en la ruta mencionada abajo",
+      "*/",
+      "",
+      ".titulo-tres.mt-5",
+      "  h3",
+      "    margin-left: 3rem;",
+      "    margin-right: 1rem;",
+      "    margin-bottom: 0;",
+      "    background-color: #4A2CFF;",
+      "    display: inline-block;",
+      "    padding: 0.5rem 1rem;",
+      "    border-radius: 0.5rem;",
+      "    position: relative;",
+      "",
+      "    &::before",
+      "      content: url('../assets/curso/tema1/icon.svg');",
+      "      position: absolute;",
+      "      top: 2px;",
+      "      left: 0;",
+      "      transform: translate(-10%, -15%);",
+      "      width: 57px;",
+      ""
+    ],
+    "description": "Genera el estilo SASS para el título con icono (incluye comentario de validación)"
+  }
+}

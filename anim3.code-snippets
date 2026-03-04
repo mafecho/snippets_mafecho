@@ -1,0 +1,9 @@
+{
+	"Animacion 3": {
+  "prefix": "anim3",
+  "body": [
+    "(data-aos=\"fade-left\")"
+  ],
+  "description": "Animacion 3"
+}
+}
